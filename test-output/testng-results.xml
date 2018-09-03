@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50686" started-at="2018-09-03T10:16:45Z" finished-at="2018-09-03T10:17:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50686" started-at="2018-09-03T10:16:45Z" finished-at="2018-09-03T10:17:36Z">
+      <class name="testing.indexTest">
+        <test-method status="PASS" signature="loadUrl()[pri:0, instance:testing.indexTest@4dfa3a9d]" name="loadUrl" is-config="true" duration-ms="49665" started-at="2018-09-03T15:46:45Z" finished-at="2018-09-03T15:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadUrl -->
+        <test-method status="PASS" signature="fullPageScreenShot()[pri:1, instance:testing.indexTest@4dfa3a9d]" name="fullPageScreenShot" duration-ms="819" started-at="2018-09-03T15:47:35Z" finished-at="2018-09-03T15:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullPageScreenShot -->
+      </class> <!-- testing.indexTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

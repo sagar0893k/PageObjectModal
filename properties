@@ -1,0 +1,8 @@
+Browser: GoogleChrome
+
+URL: https://www.naukri.com
+
+chromeDriverPath: E:\\Downloads\\chromedriver_win32\\chromedriver.exe
+
+firefoxDriverPath: E:\\Latest Rough\\Downloads\\geckodriver-v0.19.1-win64\\geckodriver.exe
+
